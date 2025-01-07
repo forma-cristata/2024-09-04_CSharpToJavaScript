@@ -1,4 +1,4 @@
-Project Overview: C# to JavaScript Conversion
+##Project Overview: C# to JavaScript Conversion
 
 This project involves converting an existing C# application into JavaScript while maintaining the original structure and functionality. The conversion process focuses on proper JavaScript syntax, conventions, and best practices including:
 
